@@ -5,13 +5,11 @@ Welcome to my GitHub profile! Here you'll find a collection of projects, contrib
 ## ℹ️ About Me
 
 - **Name:** Zohaib Shahzad
-- **Location:** Berlin, Germany 🇩🇪
-- **Contact:** zohaibshahzad16@gmail.com | +49 17695152537
 - **Experience:** 5 years in Software Engineering
 
 ## 💼 Work Experience
 
-### Career Break - Proffessional Development
+### Career Break - Professional Development
 **Oct 2023 - Aug 2024 | Berlin, Germany**
 
 - Completed a diploma in Advanced Frontend Development from Code Institute, gain hands-on experience
@@ -43,10 +41,6 @@ full-stack applications and strengthen my skills in frontend and backend integra
 - Developed comprehensive testing procedures that identified critical issues early in the development cycle,
   resulting in a significant reduction in post-release defects and improved software stability.
 
-### Lab Engineer
-**Aug 2016 - Aug 2018 | Karachi, Pakistan**
-- Served as a Lab Instructor overseeing various software engineering courses.
-
 ## 🚀 Skills
 
 - **Languages & Frameworks:** HTML,CSS,JavaScript, Python, React,NextJs, Vue, Django, django-rest-framework
@@ -58,8 +52,8 @@ full-stack applications and strengthen my skills in frontend and backend integra
 
 - **Diploma in Full Stack Software Development**, Code Institute, 2023-2024
 - **Specialization:** Cloud Computing (AWS, Azure, Google Cloud), Docker, Kubernetes, Terraform, Ansible (In-Progress)
-- **Master in Software Engineering**, Bahria University, 2017-2019
-- **Bachelor in Software Engineering**, Bahria University, 2012-2016
+- **Master in Software Engineering**, 
+- **Bachelor in Software Engineering**
 
 
 
