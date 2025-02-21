@@ -1,70 +1,77 @@
 # 👋 Zohaib Shahzad
 
-Welcome to my GitHub profile! Here you'll find a collection of projects, contributions, and insights into my journey as a Software Engineer. Feel free to explore and connect.
+Welcome to my GitHub profile! Here you'll find a collection of projects, contributions, and insights into my journey as a **Frontend Software Engineer**. Feel free to explore and connect!
 
-## ℹ️ About Me
+---
 
-- **Name:** Zohaib Shahzad
-- **Experience:** 5 years in Software Engineering
+## 🏆 About Me
 
-## 💼 Work Experience
+- **Name:** Zohaib Shahzad  
+- **Location:** Berlin, Germany 🇩🇪  
+- **Experience:** 5+ years in Software Engineering  
+- **Email:** [zohaibshahzad16@gmail.com](mailto:zohaibshahzad16@gmail.com)  
+- **Languages:** English (Professional), German (A2 - Learning)  
 
-### Career Break - Professional Development
-**Oct 2023 - Aug 2024 | Berlin, Germany**
+---
 
-- Completed a diploma in Advanced Frontend Development from Code Institute, gain hands-on experience
-with React, Django, Python, REST APIs, and PostgreSQL. This program allowed me to build dynamic
-full-stack applications and strengthen my skills in frontend and backend integration.
+##  Work Experience
 
-### Software Engineer II - Edge Case Research
-**Jun 2020 - Sep 2023 | Berlin, Germany**
+### Frontend Software Engineer II – Edge Case Research
+  **June 2020 – Jan 2024** | Remote – Munich, Germany
 
-- Developed user interfaces using Vue.js, Vuetify, and React, enhancing the user experience by implementing
-  modern design principles and improving application responsiveness.
-- Collaborated with design and backend teams to translate concepts into functional frontend solutions,
-  reducing development time by 20% through improved workflows.
-- Coordinated efforts with design and backend teams to refine specifications, converting 20+ wireframes into
-  interactive prototypes these prototypes garnered positive feedback from users.
-- Conducted 100+ code reviews to ensure code quality and alignment with best practices, which led to a
-  noticeable reduction in defect rates and smoother production deployments.
-- Optimized frontend performance, resulting in a faster page load time and an increase in user satisfaction
-  scores.
+- Developed responsive web applications using **Vue.js** and **React**, improving user satisfaction.
+- Optimized frontend performance, reducing load times and improving efficiency.
+- Migrated legacy codebases to modern frameworks, enhancing maintainability and reducing technical debt.
+- Conducted knowledge-sharing sessions on frontend development best practices.
 
-### Software Engineer - TerraLoupe
-**Sep 2018 - Jun 2020 | Berlin, Germany**
+### Frontend Software Engineer – TerraLoupe
+   **Sept 2018 – June 2020** | Remote – Munich, Germany
 
-- Led frontend development of TerraLabel project using React, guiding the team from design through
-  implementation phases, which contributed to a more streamlined development process and accelerated
-  feature rollouts.
-- Partnered with UI/UX teams to implement design improvements that enhanced user interaction, leading to
-  increased engagement metrics on key product features.
-- Developed comprehensive testing procedures that identified critical issues early in the development cycle,
-  resulting in a significant reduction in post-release defects and improved software stability.
+- Led frontend development for the **TerraLabel** project using **React**.
+- Designed and proposed UI/UX improvements, increasing user engagement.
+- Established and enforced testing standards, creating unit tests with **Jest** and **React Testing Library**.
 
-## 🚀 Skills
+---
 
-- **Languages & Frameworks:** HTML,CSS,JavaScript, Python, React,NextJs, Vue, Django, django-rest-framework
-- **Tools:** Git, Docker, Vscode, Jira
-- **Others:** Strong communication, problem-solving, and collaboration skills.
+##  Technical Skills
 
+###  Programming Languages
+- **HTML, CSS, JavaScript, TypeScript, Python**
 
-## 📚 Education
+###  Frameworks & Libraries
+- **React, Next.js, Vue.js, Django, Bootstrap, Tailwind CSS**
+- **Testing:** Jest, Vitest
 
-- **Diploma in Full Stack Software Development**, Code Institute, 2023-2024
-- **Specialization:** Cloud Computing (AWS, Azure, Google Cloud), Docker, Kubernetes, Terraform, Ansible (In-Progress)
-- **Master in Software Engineering**, 
-- **Bachelor in Software Engineering**
+### Cloud & DevOps
+- **AWS, Docker, Kubernetes, CI/CD Pipelines**
 
+### Tools & Platforms
+- **Git, GitHub, Jira, Heroku**
 
+---
 
-## 🌟 Personal Projects & Interests
+## Education
 
-- **Learning:** Always eager to explore and learn new technologies.
-- **E-commerce:** Interested in exploring e-commerce solutions and trends.
+- 🎓 **Diploma in Cloud Technologies** – The Cloud Bootcamp *(Ongoing, Dec 2024 – Present)*
+- 🎓 **Diploma in Full Stack Software Development** – Code Institute *(Jan 2024 – July 2024)*
+- 🎓 **Master’s in Software Engineering** – Bahria University *(2017 – 2019)*
+- 🎓 **Bachelor’s in Software Engineering** – Bahria University *(2012 – 2016)*
 
-## 🔗 Connect
+---
 
+## Interests & Learning
+
+- Passionate about **Cloud Computing & DevOps**, currently exploring **multi-cloud** strategies.
+- Enthusiastic about **frontend performance optimization** and **user-centric design**.
+- Continuously learning **German 🇩🇪** .
+
+---
+
+## 🔗 Connect with Me
+
+- **GitHub:** [Zohaib Shahzad](https://github.com/zohaibshahzad16)
 - **LinkedIn:** [Zohaib Shahzad](https://www.linkedin.com/in/zohaibshahzad00/)
 - **Medium:** [Zohaib Shahzad](https://medium.com/@zohaibshahzad16)
 
-Thank you for visiting my GitHub profile. Let's connect and collaborate on exciting projects! 👩‍💻🚀
+*Thanks for visiting my profile! Let’s connect and build something amazing together.*
+
