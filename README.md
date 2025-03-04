@@ -69,7 +69,6 @@ Welcome to my GitHub profile! Here you'll find a collection of projects, contrib
 
 ## 🔗 Connect with Me
 
-- **GitHub:** [Zohaib Shahzad](https://github.com/zohaibshahzad16)
 - **LinkedIn:** [Zohaib Shahzad](https://www.linkedin.com/in/zohaibshahzad00/)
 - **Medium:** [Zohaib Shahzad](https://medium.com/@zohaibshahzad16)
 
