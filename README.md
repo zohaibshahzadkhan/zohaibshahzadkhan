@@ -8,8 +8,7 @@ Welcome to my GitHub profile! Here you'll find a collection of projects, contrib
 
 - **Name:** Zohaib Shahzad  
 - **Location:** Berlin, Germany 🇩🇪  
-- **Experience:** 5+ years in Software Engineering  
-- **Email:** [zohaibshahzad16@gmail.com](mailto:zohaibshahzad16@gmail.com)  
+- **Experience:** 5+ years in Software Engineering
 - **Languages:** English (Professional), German (A2 - Learning)  
 
 ---
