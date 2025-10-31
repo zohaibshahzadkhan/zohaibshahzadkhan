@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile! Here you'll find a collection of projects, contributions, and insights into my journey as a **Frontend Software Engineer**. Feel free to explore and connect!
 
----
 
 ## 🏆 About Me
 
@@ -11,7 +10,6 @@ Welcome to my GitHub profile! Here you'll find a collection of projects, contrib
 - **Experience:** 5+ years in Software Engineering
 - **Languages:** English (Professional), German (A2 - Learning)  
 
----
 
 ##  Work Experience
 
@@ -41,7 +39,6 @@ Welcome to my GitHub profile! Here you'll find a collection of projects, contrib
 - Designed and proposed UI/UX improvements, increasing user engagement.
 - Established and enforced testing standards, creating unit tests with **Jest** and **React Testing Library**.
 
----
 
 ##  Technical Skills
 
@@ -58,7 +55,6 @@ Welcome to my GitHub profile! Here you'll find a collection of projects, contrib
 ### Tools & Platforms
 - **Git, GitHub, Jira, Heroku**
 
----
 
 ## Education
 
@@ -67,7 +63,6 @@ Welcome to my GitHub profile! Here you'll find a collection of projects, contrib
 - 🎓 **Master’s in Software Engineering** – Bahria University *(2017 – 2019)*
 - 🎓 **Bachelor’s in Software Engineering** – Bahria University *(2012 – 2016)*
 
----
 
 ## Interests & Learning
 
@@ -75,7 +70,6 @@ Welcome to my GitHub profile! Here you'll find a collection of projects, contrib
 - Enthusiastic about **frontend performance optimization** and **user-centric design**.
 - Continuously learning **German 🇩🇪** .
 
----
 
 ## 🔗 Connect with Me
 
