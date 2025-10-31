@@ -15,6 +15,17 @@ Welcome to my GitHub profile! Here you'll find a collection of projects, contrib
 
 ##  Work Experience
 
+### Founding Full Stack Engineer​ – TheaCare
+  **Sep 2025 – Nov 2025 (contract)** | Hybrid – Berlin, Germany
+
+- Founding engineer working closely with the CEO and CTO to shape the product.
+- Built and maintained the core Next.js frontend and Python backend, ensuring.
+- Integrated PostHog for analytics, improving error tracking and data-driven insights.
+- Enhanced infrastructure and deployment using AWS CDK and Amplify.
+- Improved UX and product usability, driving better customer engagement
+- Defined architecture and technical roadmap, balancing speed and maintainability.
+- Established coding standards, testing practices, and deployment workflows.
+  
 ### Frontend Software Engineer II – Edge Case Research
   **June 2020 – Jan 2024** | Remote – Munich, Germany
 
