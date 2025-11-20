@@ -14,7 +14,7 @@ Welcome to my GitHub profile! Here you'll find a collection of projects, contrib
 ##  Work Experience
 
 ### Founding Full Stack Engineer​ – TheaCare
-  **Sep 2025 – Nov 2025 (contract)** | Hybrid – Berlin, Germany
+  **Sep 2025 – Present** | Hybrid – Berlin, Germany
 
 - Founding engineer working closely with the CEO and CTO to shape the product.
 - Built and maintained the core Next.js frontend and Python backend, ensuring.
